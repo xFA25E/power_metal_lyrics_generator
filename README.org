@@ -1,0 +1,5 @@
+#+TITLE: Power Metal Lyrics Generator
+
+~./main.py [ --title | --song | --album ]~
+
+[[file:power_metal.png][pmlg]]
