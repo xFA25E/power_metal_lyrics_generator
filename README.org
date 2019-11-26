@@ -2,4 +2,4 @@
 
 ~./main.py [ --title | --song | --album ]~
 
-[[file:power_metal.png][pmlg]]
+[[./power_metal.png]]
